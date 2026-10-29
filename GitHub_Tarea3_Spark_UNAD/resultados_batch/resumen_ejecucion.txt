@@ -1,0 +1,10 @@
+INFORME DE EJECUCION - TAREA 3 BIG DATA UNAD
+Fuente: datos sinteticos simulados con generar_datos.py; NO son datos reales.
+Registros originales: 200019
+Duplicados: 19
+Temperatura ausente o fuera de rango: 66
+Humedad ausente o fuera de rango: 49
+Registros validos para analisis: 199891
+Reglas de limpieza: quitar duplicados; fechas y sensores validos;
+conservar temperatura de 0 a 40 C y humedad de 0 a 100 %; descartar filas incompletas.
+Las graficas y CSV de resumen se encuentran en esta misma carpeta.

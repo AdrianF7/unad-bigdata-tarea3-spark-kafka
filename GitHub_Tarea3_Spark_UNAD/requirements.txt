@@ -1,0 +1,4 @@
+# Opcional: para preparar un entorno Python local sin Spark preinstalado.
+# En Ubuntu con Spark preinstalado, use directamente spark-submit.
+pyspark==3.5.8
+kafka-python==3.0.12
